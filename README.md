@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **python.**
 
-- 📝 I regularly write articles on [www.bioinformaticsguy.info](www.bioinformaticsguy.info)
+- 📝 I regularly write articles on [www.bioinformaticsguy.info]([www.bioinformaticsguy.info](https://www.bioinformaticsguy.info/))
 
 - 💬 Ask me about **Bioinformatics.**
 
