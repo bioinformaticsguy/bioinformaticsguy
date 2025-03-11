@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bioinformaticsguy&label=Profile%20views&color=0e75b6&style=flat" alt="bioinformaticsguy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bioinformaticsguy&" alt="bioinformaticsguy" /></p>
-
+<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=bioinformaticsguy&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="bioinformaticsguy" />
 
 
 <!-- <img src="https://raw.githubusercontent.com/bioinformaticsguy/bioinformaticsguy/output/snake.svg" alt="Snake animation" /> -->
@@ -15,7 +12,7 @@
 
 - 🌱 I’m currently learning **Docker, Nextflow.**
 
-- 👯 I’m looking to collaborate on **finding varients responsible for rare diseases.**
+- 👯 I’m looking to collaborate on **finding variants responsible for rare diseases.**
 
 - 🤝 I’m looking for help with **python.**
 
