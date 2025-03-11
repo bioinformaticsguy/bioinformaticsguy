@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/bioinformaticsguy/bioinformaticsguy/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!-- <img src="https://raw.githubusercontent.com/bioinformaticsguy/bioinformaticsguy/output/snake.svg" alt="Snake animation" /> -->
 
 - 🔭 I’m currently working on **long read and short read data.**
 
@@ -18,7 +15,7 @@
 
 - 🤝 I’m looking for help with **python.**
 
-- 📝 I regularly write articles on [www.bioinformaticsguy.info](www.bioinformaticsguy.info](https://www.bioinformaticsguy.info/)
+<!-- - 📝 I regularly write articles on [www.bioinformaticsguy.info](www.bioinformaticsguy.info](https://www.bioinformaticsguy.info/) -->
 
 
 
