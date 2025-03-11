@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bioinformaticsguy&" alt="bioinformaticsguy" /></p>
+
+
+
 <!-- <img src="https://raw.githubusercontent.com/bioinformaticsguy/bioinformaticsguy/output/snake.svg" alt="Snake animation" /> -->
 
 - 🔭 I’m currently working on **long read and short read data.**
@@ -41,4 +45,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bioinformaticsguy&show_icons=true&locale=en" alt="bioinformaticsguy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bioinformaticsguy&" alt="bioinformaticsguy" /></p>
