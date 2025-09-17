@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bioinformaticsguy&label=Profile%20views&color=0e75b6&style=flat" alt="bioinformaticsguy" /> </p>
 
-<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=bioinformaticsguy&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="bioinformaticsguy" />
-
-
 <!-- <img src="https://raw.githubusercontent.com/bioinformaticsguy/bioinformaticsguy/output/snake.svg" alt="Snake animation" /> -->
 
 - 🔭 I’m currently working on **long read and short read data.**
