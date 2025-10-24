@@ -39,7 +39,7 @@
 <div>
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="python" width="80" height="80"/>&nbsp;
-  <img src="icons/bash-icon-svgrepo-com.svg" title="LightGBM" alt="LightGBM" width="80" height="80"/>&nbsp;
+  <img src="icons/bash-icon-svgrepo-com.svg" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" alt="R" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" height="80"/>&nbsp;
   
@@ -53,6 +53,7 @@
   <img src="icons/Matplotlib_logo.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>&nbsp;  
   <img src="icons/seaborn_logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="80" height="80"/>&nbsp;  
   <img src="icons/Snakemake_logo.svg" title="Snakemake" alt="Snakemake" width="80" height="80"/>&nbsp;  
+  <img src="icons/nf-core-logo-square.png" title="Nextflow" alt="Nextflow" width="80" height="80"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" title="Conda" alt="conda" width="80" height="80"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="80" height="80"/>&nbsp; 
 </div>
