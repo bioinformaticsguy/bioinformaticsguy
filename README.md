@@ -30,5 +30,3 @@
 <img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=sroener&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
 <img height=189 align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bioinformaticsguy&show_icons=true&locale=en&layout=compact" alt="bioinformaticsguy" /></p>
