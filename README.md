@@ -50,10 +50,10 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="pandas" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="numpy" width="80" height="80"/>&nbsp;   
-  <img src="Icons/Matplotlib_logo.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>&nbsp;  
-  <img src="Icons/seaborn_logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="80" height="80"/>&nbsp;  
-  <img src="Icons/dask_icon.svg" title="Dask" alt="dask" width="80" height="80"/>&nbsp;  
-  <img src="Icons/Snakemake_logo.svg" title="Snakemake" alt="Snakemake" width="80" height="80"/>&nbsp;  
+  <img src="icons/Matplotlib_logo.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>&nbsp;  
+  <img src="icons/seaborn_logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="80" height="80"/>&nbsp;  
+  <img src="icons/dask_icon.svg" title="Dask" alt="dask" width="80" height="80"/>&nbsp;  
+  <img src="icons/Snakemake_logo.svg" title="Snakemake" alt="Snakemake" width="80" height="80"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" title="Conda" alt="conda" width="80" height="80"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="80" height="80"/>&nbsp; 
 </div>
