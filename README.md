@@ -64,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tensorflow" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" title="Keras" alt="keras" width="80" height="80"/>&nbsp;    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="sklearn" height="80"/>&nbsp;
-  <img src="Icons/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" height="80"/>&nbsp;  
-  <img src="Icons/shap_logo.png" title="LightGBM" alt="LightGBM" height="80"/>&nbsp; 
 </div>
 
           
