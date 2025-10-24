@@ -39,9 +39,9 @@
 <div>
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="python" width="80" height="80"/>&nbsp;
-   <img src="Icons/bash-icon-svgrepo-com.svg" title="LightGBM" alt="LightGBM" width="80" height="80"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" alt="R" height="80"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" height="80"/>&nbsp;
+  <img src="icons/bash-icon-svgrepo-com.svg" title="LightGBM" alt="LightGBM" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" alt="R" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" height="80"/>&nbsp;
   
 </div>
 
