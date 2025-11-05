@@ -67,7 +67,3 @@
 </div>
 
           
-
-<p><img align="justify"  /></p>
-<img height=189 align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
-
