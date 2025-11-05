@@ -27,7 +27,7 @@
 - ⚡ Fun fact **I can eat 5 times a day!**
 
 
-<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=sroener&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
+<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=bioinformaticsguy&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="Ali" />
 
 
 
