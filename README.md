@@ -5,26 +5,20 @@
 
 <!-- <img src="https://raw.githubusercontent.com/bioinformaticsguy/bioinformaticsguy/output/snake.svg" alt="Snake animation" /> -->
 
-- 🔭 I’m currently working on **long read and short read data.**
+- I’m currently working on **long read and short read data.**
 
-- 🌱 I’m currently learning **Docker, Nextflow.**
-
-- 👯 I’m looking to collaborate on **finding variants responsible for rare diseases.**
-
-- 🤝 I’m looking for help with **python.**
+- I’m looking to collaborate on **finding variants responsible for rare diseases.**
 
 <!-- - 📝 I regularly write articles on [www.bioinformaticsguy.info](www.bioinformaticsguy.info](https://www.bioinformaticsguy.info/) -->
 
 
 
 
-- 💬 Ask me about **Bioinformatics.**
+- Ask me about **Bioinformatics.**
 
-- 📫 How to reach me **bioinformaticsguy@gmail.com**
+- How to reach me **bioinformaticsguy@gmail.com**
 
-- 📄 Know about my experiences [https://www.bioinformaticsguy.info/portfolio/](https://www.bioinformaticsguy.info/portfolio/)
-
-- ⚡ Fun fact **I can eat 5 times a day!**
+- Know about my experiences [https://www.bioinformaticsguy.info/portfolio/](https://www.bioinformaticsguy.info/portfolio/)
 
 
 <img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=bioinformaticsguy&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="Ali" />
